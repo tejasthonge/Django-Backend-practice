@@ -1,0 +1,28 @@
+
+
+#following are the basic set to create the envarmet and install the django and create the project in it 
+
+    
+    make sore that we have already install the python on the pc 
+    first create the envarmet by using the 
+    mkvartualenv <nameofenv>
+
+    to activate 
+    workon <nameenv>
+
+    to diactiate 
+    diactivate <nameenv>
+
+    #to to install the django 
+    pip or pip3 
+    pip install django 
+
+    //to create the new django project 
+    django-admin startproject <nameofproject>
+
+
+#now once the project is created 
+    we and the new app in your project by uing the
+    python manage.py startapp <appname>
+
+
