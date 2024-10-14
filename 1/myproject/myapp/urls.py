@@ -3,7 +3,7 @@ from django.urls import path
 
 from myapp import views
 
-urlsPattarns = [
+urlspatterns = [
     path('' , views.index, name='index'),
-    path('atmath.P')
+
 ]
